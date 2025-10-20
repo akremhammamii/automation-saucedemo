@@ -1,0 +1,17 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"  En tant qu'utilisateur du site web
+  Je souhaite me connecter au site
+  Afin d'accéder à mon compte et à la liste des produits","2633","Tester les différents cas de connexion utilisateur","","2025-10-20","passed","2025-10-20","","Connexion des utilisateurs au site Sauce Demo","Tester les différents cas de connexion utilisateur",""
+"","1","TestRunner","","2025-10-16","broken","2025-10-16","","com.saucedemo.runners.TestRunner","com.saucedemo.runners.TestRunner",""
+"  En tant qu'utilisateur du site web
+  Je souhaite me connecter au site
+  Afin d'accéder à mon compte et à la liste des produits","2997","Tester les différents cas de connexion utilisateur","","2025-10-20","passed","2025-10-20","","Connexion des utilisateurs au site Sauce Demo","Tester les différents cas de connexion utilisateur",""
+"  En tant qu'utilisateur du site web
+  Je souhaite me connecter au site
+  Afin d'accéder à mon compte et à la liste des produits","8624","Tester les différents cas de connexion utilisateur","","2025-10-20","passed","2025-10-20","","Connexion des utilisateurs au site Sauce Demo","Tester les différents cas de connexion utilisateur",""
+"  En tant qu'utilisateur du site web
+  Je souhaite me connecter au site
+  Afin d'accéder à mon compte et à la liste des produits","7151","Tester les différents cas de connexion utilisateur","","2025-10-20","passed","2025-10-20","","Connexion des utilisateurs au site Sauce Demo","Tester les différents cas de connexion utilisateur",""
+"  En tant qu'utilisateur du site web
+  Je souhaite me connecter au site
+  Afin d'accéder à mon compte et à la liste des produits","7460","Connexion réussie avec un utilisateur standard","","2025-10-16","passed","2025-10-16","","Connexion des utilisateurs au site Sauce Demo","Connexion réussie avec un utilisateur standard",""

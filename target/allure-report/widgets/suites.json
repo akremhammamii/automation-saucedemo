@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"43c4f6c2260fbfbc5f593e3d3e4602b4","name":"com.saucedemo.runners.TestRunner","statistic":{"failed":0,"broken":1,"skipped":0,"passed":0,"unknown":0,"total":1}},{"uid":"8ef81887d1817846a45048755b349d3f","name":"Connexion des utilisateurs au site Sauce Demo","statistic":{"failed":0,"broken":0,"skipped":0,"passed":5,"unknown":0,"total":5}}]}
